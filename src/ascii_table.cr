@@ -1,4 +1,3 @@
-# TODO: Write documentation for `AsciiTable`
 class AsciiTable
   VERSION = "0.1.0"
 

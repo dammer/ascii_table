@@ -1,4 +1,4 @@
-# ascii_table
+# AsciiTable
 
 The AsciiTable class provides a simple and flexible way to generate ASCII tables with customizable styles and width adjustment strategies.
 
