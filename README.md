@@ -9,7 +9,7 @@ The AsciiTable class provides a simple and flexible way to generate ASCII tables
    ```yaml
    dependencies:
      ascii_table:
-       github: your-github-user/ascii_table
+       github: dammer/ascii_table
    ```
 
 2. Run `shards install`
@@ -61,10 +61,6 @@ table.render(adjust_width: :personal)
 # └───────────┴───────┴─────────────────┘
 
 ```
-
-## Development
-
-TODO: Write development instructions here
 
 ## Contributing
 
